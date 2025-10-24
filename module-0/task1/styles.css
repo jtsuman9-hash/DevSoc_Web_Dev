@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    gap: 10px;                 
+    min-height: 100vh;  
+}
+
+.list img {
+    width: 130px;
+    height: auto;
+    border-radius: 6px;
+}
